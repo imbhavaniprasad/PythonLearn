@@ -36,3 +36,5 @@ print(s[::2])  # Output: "Hoo ol!"
 #skips every 2 chars
 print(s[::-1])  # Output: "!dlroW ,olleH"
 #The -1 step reverses the string.
+
+{"item_id": item_id, **item_dict} : ** merging key values like spread operator from js
